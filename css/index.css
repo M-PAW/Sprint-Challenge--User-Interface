@@ -244,7 +244,7 @@ nav a {
 }
 
 .row-about {
-    border-bottom: 1px dotted black;
+    padding: 20px;
 }
 
 .content-about {
@@ -255,11 +255,35 @@ nav a {
     width: 110px;
     padding: 5px;
     margin-top: 10px;
-    border: 1px solid black;
-    border-radius: 5px;
+    border: 2px solid black;
+    border-radius: 8px;
     text-align: center;
+}
+
+.constrain {
+    width:46%;
+}
+
+.constrain img{
+    width:94%;
+    margin-bottom: 10px;
 }
 
 .bottom-content .about-text {
     margin-left: -15px;
+}
+
+.about-border {
+    padding: 0 0 30px 5px;
+    border-bottom: 2px dotted black;
+}
+
+.constrain2 {
+    display:flex;
+    justify-content:center;
+}
+.constrain2{
+    width: 95%;
+    padding: 17px 20px 15px 45px;
+    
 }

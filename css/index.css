@@ -227,6 +227,8 @@ nav a {
     background-color: dodgerblue;
 }
 
+
+/*  about.html CSS  */
 .top-content .text-container-about {
     width: 100%;
     margin-top: 20px;
@@ -243,4 +245,21 @@ nav a {
 
 .row-about {
     border-bottom: 1px dotted black;
+}
+
+.content-about {
+    margin-bottom: 18px;
+}
+
+.button {
+    width: 110px;
+    padding: 5px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.bottom-content .about-text {
+    margin-left: -15px;
 }

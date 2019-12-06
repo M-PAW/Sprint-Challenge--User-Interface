@@ -144,3 +144,85 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/*  Start of CSS  */
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.page-top {
+    margin: 2.6vh;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: space-between;
+}
+
+
+.page-top {
+    width:100%;
+}
+
+.text-container {
+    margin-top: 2.1vh;
+}
+
+nav{
+    padding-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color:black;
+    margin-right: 46px;
+    margin-left: 35px;
+}
+
+.middle-content .boxes .box1 {
+    background-color: teal;
+}
+
+.middle-content .boxes .box2 {
+    background-color: gold;
+}
+
+.middle-content .boxes .box3 {
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box4 {
+    background-color: coral;
+}
+
+.middle-content .boxes .box5 {
+    background-color: crimson;
+}
+
+.middle-content .boxes .box6 {
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box7 {
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box8 {
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box9 {
+    background-color: indigo;
+}
+
+.middle-content .boxes .box10 {
+    background-color: dodgerblue;
+}

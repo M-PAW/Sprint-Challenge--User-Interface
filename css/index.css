@@ -251,14 +251,7 @@ nav a {
     margin-bottom: 18px;
 }
 
-.button {
-    width: 110px;
-    padding: 5px;
-    margin-top: 10px;
-    border: 2px solid black;
-    border-radius: 8px;
-    text-align: center;
-}
+
 
 .constrain {
     width:46%;
@@ -290,4 +283,13 @@ nav a {
 
 .about-border p {
     width: 95%;
+}
+
+.about-border .button {
+    width: 110px;
+    padding: 5px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
 }

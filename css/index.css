@@ -287,3 +287,7 @@ nav a {
     padding: 17px 20px 15px 45px;
     
 }
+
+.about-border p {
+    width: 95%;
+}

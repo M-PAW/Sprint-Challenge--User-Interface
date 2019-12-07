@@ -293,3 +293,32 @@ nav a {
     border-radius: 8px;
     text-align: center;
 }
+
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    align-content: center;
+}
+
+.form-wrapper {
+    width: 50%;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 46%;
+    margin-left: 15%;
+    padding: 1px;
+    background-color: lightgray;
+}
+.form-wrapper input, select {
+    margin: 15px 140px 0;
+}
+
+.form-wrapper h3{
+   margin: 0 auto;
+   text-align: center;
+   line-height: 2em;
+}
+
